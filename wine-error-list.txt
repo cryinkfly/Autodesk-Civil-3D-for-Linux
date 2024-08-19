@@ -1,0 +1,15 @@
+01c0:err:environ:init_peb starting L"C:\\windows\\temp\\{16B37386-23B5-43C3-81EF-C219BF1EEEE5}\\.be\\AspNetCoreSharedFrameworkBundle-x64.exe" in experimental wow64 mode
+
+0b7c:err:d3d:wined3d_fence_wait glClientWaitSync returned 0x911b.
+0b7c:err:d3d:wined3d_context_gl_wait_command_fence Failed to wait for command fence with id 0x1, ret 0x4.
+0b7c:err:d3d:wined3d_fence_wait glClientWaitSync returned 0x911b.
+0b7c:err:d3d:wined3d_context_gl_wait_command_fence Failed to wait for command fence with id 0x2, ret 0x4.
+
+0840:err:ole:com_get_class_object class {7ab36653-1796-484b-bdfa-e74f1db7c1dc} not registered
+0840:err:ole:create_server class {7ab36653-1796-484b-bdfa-e74f1db7c1dc} not registered
+0840:err:ole:com_get_class_object no class object {7ab36653-1796-484b-bdfa-e74f1db7c1dc} could be created for context 0x5
+
+err:   D3D11SwapChain: Failed to recreate surface: VK_ERROR_OUT_OF_HOST_MEMORY
+err:   DXGI: CreateSwapChainForHwnd: Failed to create swap chain, hr -2147467259
+
+err:   D3D11VideoDevice::GetVideoDecoderProfileCount: Stub
