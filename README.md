@@ -1,3 +1,8 @@
+>[!WARNING]
+>The transfer of all repositories to my [Codeberg account](https://codeberg.org/cryinkfly) is currently ongoing. In the future, this project will be continued on https://codeberg.org/cryinkfly/Autodesk-Civil-3D-on-Linux!
+
+---
+
 # Autodesk-Civil-3D
 This is a project, where I give you a way to use Autodesk Civil 3D on Linux! 
 
